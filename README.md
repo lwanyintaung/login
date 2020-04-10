@@ -14,6 +14,7 @@
 
 ### System :
 * Linux
+* windows
 
 # Requirements
 [✓] mechanize
@@ -27,6 +28,7 @@
 [✓] re
 [✓] urllib
 [✓] urllib2
+[✓] random
 
 
 
@@ -51,10 +53,12 @@ type of list in .txt file is 'username:password'
 |Distribution | Version Check | supported | status |
 ----------|-------|------|-------|
 |Kali Linux|2020.1 | yes | working   |
+|windows|10 | yes | working   |
 
 
 ## Release History
 ```
+[◉] Version 0.0.2 [09-04-2020]
 [◉] Version 0.0.1 [04-04-2020]
 ...
 ```
